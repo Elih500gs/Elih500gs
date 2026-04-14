@@ -1,3 +1,4 @@
+![Banner](./Banner.jpg)
 # Olá, eu sou a Eliane Souza 
 
 Sou formada em Estatística pela Universidade Estadual de Campinas (Unicamp) e tenho interesse em transformar dados em informações que apoiam a tomada de decisão, identificação de padrões e resposta a questões de negócio.
