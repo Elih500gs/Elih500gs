@@ -18,9 +18,8 @@ Atualmente, estou focada em análise de dados aplicada a problemas reais, com in
 
 **Visualização**
 - Power BI
-- Excel
-- SAP
-- CRM
+- Azure
+- SAP Hanna
 
 **Ambiente e Metodologia**
 - Scrum
