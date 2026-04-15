@@ -19,7 +19,7 @@ Atualmente, estou focada em análise de dados aplicada a problemas reais, com in
 **Visualização**
 - Power BI
 - Tableu
-- SAP Hanna
+- SAP HANA(BO/SAC)
 
 **Ambiente e Metodologia**
 - Scrum
