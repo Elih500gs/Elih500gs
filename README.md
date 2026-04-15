@@ -18,7 +18,7 @@ Atualmente, estou focada em análise de dados aplicada a problemas reais, com in
 
 **Visualização**
 - Power BI
-- Azure
+- Tableu
 - SAP Hanna
 
 **Ambiente e Metodologia**
